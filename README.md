@@ -15,5 +15,10 @@ Contact: ```lucas[dot]degeorge[at]ensae[dot]fr``` | ```lucasdegeorge[at]outlook[
 
 ## Some projects
 
-* Semantic segmentation for in situ TEM images
-![alt text]()
+* Semantic segmentation for in situ TEM images [Repo](https://github.com/lucasdegeorge/Nanowire_image_segmentation)
+![alt text](https://github.com/lucasdegeorge/lucasdegeorge/blob/main/nanowire_segmentation.png)
+Development of semi-supervised models for segmenting nanowire images. The aim is to enable certain geometric properties (contact angle, phase length, etc.) to be measured. Under the supervision of [Federico Panciera](https://elphyse.c2n.universite-paris-saclay.fr/en/members/federico-panciera/).
+
+
+* C++ implementation of John Conway's Game of life with GUI. [Repo]()
+
