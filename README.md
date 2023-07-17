@@ -20,6 +20,8 @@ Contact: ```lucas[dot]degeorge[at]ensae[dot]fr``` | ```lucasdegeorge[at]outlook[
 
 Development of semi-supervised models for segmenting nanowire images. The aim is to enable certain geometric properties (contact angle, phase length, etc.) to be measured. Under the supervision of [Federico Panciera](https://elphyse.c2n.universite-paris-saclay.fr/en/members/federico-panciera/).
 
+* 
+
 
 * C++ implementation of John Conway's Game of life with GUI (using Direct2D). [Repo](https://github.com/lucasdegeorge/Game_of_life)
 
