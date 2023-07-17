@@ -21,6 +21,10 @@ Development of semi-supervised models for segmenting nanowire images. The aim is
 
 
 * C++ implementation of John Conway's Game of life with GUI (using Direct2D). [Repo](https://github.com/lucasdegeorge/Game_of_life)
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-We have implemented a simulation of the Game of Life. The simulation allows users to see the behavior of cells in the game and to interact with the game by changing the state of cells in the grid.
+
+<div align="center">
+<kbd><img src="https://github.com/lucasdegeorge/lucasdegeorge/blob/main/glider.gif" width="300" height="300" /></kbd> <kbd> <img src="https://github.com/lucasdegeorge/lucasdegeorge/blob/main/gosper_glider_gun.gif"  width="300" height="300"/> </kbd>
+</div>
+
+We have implemented a simulation of the Game of Life. The simulation allows users to see the behaviour of cells in the game and to interact with the game by changing the state of cells in the grid.
 
