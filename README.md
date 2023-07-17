@@ -16,7 +16,8 @@ Contact: ```lucas[dot]degeorge[at]ensae[dot]fr``` | ```lucasdegeorge[at]outlook[
 ## Some projects
 
 * Semantic segmentation for in situ TEM images. [Repo](https://github.com/lucasdegeorge/Nanowire_image_segmentation)
-![alt text](https://github.com/lucasdegeorge/lucasdegeorge/blob/main/nanowire_segmentation.png)
+<kbd><img src="https://github.com/lucasdegeorge/lucasdegeorge/blob/main/nanowire_segmentation.png" width="750" height="250" /></kbd>
+
 Development of semi-supervised models for segmenting nanowire images. The aim is to enable certain geometric properties (contact angle, phase length, etc.) to be measured. Under the supervision of [Federico Panciera](https://elphyse.c2n.universite-paris-saclay.fr/en/members/federico-panciera/).
 
 
