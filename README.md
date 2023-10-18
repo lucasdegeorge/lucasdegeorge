@@ -1,8 +1,9 @@
 # Lucas Degeorge
 
 Master student at [Ensae Paris](https://www.ensae.fr/en/) (National School of Statistics and Economic Administration) and [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) in machine learning and statistics.
+Currently looking for a PhD position in computer vision and deep learning. 
 
-Research intern at [CNRS](https://www.cnrs.fr/en) in deep learning.
+Previous research intern at [CNRS](https://www.cnrs.fr/en) in computer vision and deep learning.
 
 Interested in deep learning and computer vision. 
 
