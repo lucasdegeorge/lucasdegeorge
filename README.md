@@ -23,7 +23,7 @@ Contact: ```lucas[dot]degeorge[at]ensae[dot]fr``` | ```lucasdegeorge[at]outlook[
 
 Development of semi-supervised models for segmenting nanowire images. The aim is to enable certain geometric properties (contact angle, phase length, etc.) to be measured. Under the supervision of [Federico Panciera](https://elphyse.c2n.universite-paris-saclay.fr/en/members/federico-panciera/).
 
-### Unsupervised methods for multi-modal machine translation. [Repo](https://github.com/lucasdegeorge/UMMT)
+### Unsupervised methods for multi-modal machine translation. [Repo](https://github.com/lucasdegeorge/Multimodal_machine_translation)
 
 The project is based on the works of [Su et al. 2018](https://arxiv.org/pdf/1811.11365.pdf) and [Huang et al. 2020](https://arxiv.org/pdf/2005.03119v1.pdf) and done under the supervision of [Matthieu Futeral](https://scholar.google.com/citations?user=yBnVv1kAAAAJ&hl=en) from [INRIA](https://www.inria.fr/en). 
 
